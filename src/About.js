@@ -19,7 +19,7 @@ const About = () => {
        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quia ratione vel tempore tenetur! Suscipit et dolore tempora odio debitis. Architecto.
        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quia ratione vel tempore tenetur! Suscipit et dolore tempora odio debitis. Architecto.
        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quia ratione vel tempore tenetur! Suscipit et dolore tempora odio debitis. Architecto.
-      <marquee className='marque' behavior="scroll" scrolldelay ='150' direction="side">
+      {/* <marquee className='marque' behavior="scroll" scrolldelay ='150' direction="side">
             <div className='techs'>
             <p className='begin'>
                     Begins
@@ -37,7 +37,7 @@ const About = () => {
                 </p>
             </div>
 
-      </marquee>
+      </marquee> */}
        </div>
        <div className="cubeim">
         <p className='role'  >
