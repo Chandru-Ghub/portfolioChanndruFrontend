@@ -1,14 +1,9 @@
-import React, { useState } from 'react'
+import React from 'react'
 import './Project.css'
-import axios from 'axios'
-import { Route, Routes, useNavigate } from 'react-router-dom'
 import { Link } from 'react-router-dom'
-import FrontEndProjects from './FrontEndProjects.'
 const Project = () => {
 
-    // const [name,setname] = useState()
-    // const[email,setemail] = useState()
-    const navigate = useNavigate();
+
   return (
     <div className='project'   id='project'>
 

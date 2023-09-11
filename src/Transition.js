@@ -1,5 +1,4 @@
 import React from 'react'
-import Top from './Top.css'
 const Transition = () => {
   return (
     <div className='trs' >

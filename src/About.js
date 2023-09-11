@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react'
+import React from 'react'
 import './About.css'
 import Ani from './Ani'
 import react from './logos/react.png'

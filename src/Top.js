@@ -1,6 +1,6 @@
 import React from 'react'
 import './Top.css'
-const Top = ({ screenup}) => {
+const Top = () => {
   return (
     <div>Top</div>
   )

@@ -1,12 +1,7 @@
 import React, { useState } from 'react'
-import { BrowserRouter, Route, Routes } from 'react-router-dom';
+import { Route, Routes } from 'react-router-dom';
 import {HashLink as Link} from 'react-router-hash-link'
-import Home from './Home';
-import About from './About';
-import Project from './Project';
-import Contact from './Contact';
 import Footer from './Footer';
-import Transition from './Transition';
 import {motion,useScroll} from 'framer-motion'
 import FrontEndProjects from './FrontEndProjects.';
 import Container from './Container';

@@ -1,7 +1,5 @@
 import React from 'react'
 import { useNavigate } from 'react-router-dom'
-// import FooterCopy from './FooterCopy'
-import { Link } from 'react-router-dom'
 import { useEffect } from "react";
 import { useLocation } from "react-router-dom";
 import cart from './thumbnail/cart.png'
